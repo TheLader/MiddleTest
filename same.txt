@@ -1,2 +1,2 @@
-Цей рядок буде у всіх текстах.
-Він містить деякі рядки для порівняння.
+It contains some lines for comparison.
+This line will be in all texts.

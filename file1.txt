@@ -1,5 +1,5 @@
-Це перший файл.
-Цей рядок буде у всіх текстах.
-Він містить деякі рядки для порівняння.
-Це зразок тексту для file1.
-Деякі рядки можуть бути спільними для обох файлів.
+This is the first file.
+This line will be in all texts.
+It contains some lines for comparison.
+This is a sample text for file1.
+Some lines may be common to both files.

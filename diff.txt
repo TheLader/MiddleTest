@@ -1,6 +1,4 @@
-Це зразок тексту для file1.
-Інші рядки можуть бути унікальними для цього файлу.
-Це зразок тексту для file2.
-Це другий файл.
-Це перший файл.
-Деякі рядки можуть бути спільними для обох файлів.
+Other lines may be unique to this file.Some lines may be common to both files.This is a sample text for file1.
+This is a sample text for file2.
+This is the first file.
+This is the second file.
