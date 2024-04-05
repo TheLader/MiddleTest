@@ -18,7 +18,7 @@ def setup_files():
 
     yield
 
-    # Clean up files after tests
+    # Clean up files after test
     os.remove("file1.txt")
     os.remove("file2.txt")
     os.remove("same.txt")
